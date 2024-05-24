@@ -1,0 +1,11 @@
+Model Information:
+* title:	Koi Fish
+* source:	https://sketchfab.com/3d-models/koi-fish-3e1b80c3653f43349252aab3b4fb1d86
+* author:	SDPM Esare (https://sketchfab.com/sdpm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Koi Fish" (https://sketchfab.com/3d-models/koi-fish-3e1b80c3653f43349252aab3b4fb1d86) by SDPM Esare (https://sketchfab.com/sdpm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
